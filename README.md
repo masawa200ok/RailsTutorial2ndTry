@@ -1,1 +1,1 @@
-# RailsTutorial2ndTry
+# RailsTutorial2ndTry_HelloApp
